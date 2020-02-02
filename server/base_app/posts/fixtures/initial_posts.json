@@ -1,0 +1,1 @@
+[{"model": "posts.post", "pk": 1, "fields": {"title": "Ten reasons you aren't cool", "content": "One you don't have a tomagotchi"}}, {"model": "posts.post", "pk": 2, "fields": {"title": "10 reasons you haven't made a cool mil", "content": "You didn't invent the tomagotchi"}}]
